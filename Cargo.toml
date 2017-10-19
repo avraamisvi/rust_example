@@ -4,3 +4,6 @@ version = "0.1.0"
 authors = ["abraaocarmo <asouza@wine.com>"]
 
 [dependencies]
+crest = "0.3.4"
+serde_derive = "1.0.15"
+serde = "1.0.15"
